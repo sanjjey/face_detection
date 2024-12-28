@@ -1,0 +1,1 @@
+A simple real-time face detection project using OpenCV, with the help of Haar-cascade and detectmultiscale functions, This model is not fully accurate, there may be little inaccuracy when wearning eyewears  
